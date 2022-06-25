@@ -1,0 +1,10 @@
+Add Laptop: O(1)
+Why? Addition takes constant time. The only thing that addLaptop does is it checks the the max int and then just adds 1 to the list.
+
+Display Laptop: O(n)
+Why? Mainly, there is a for loop, those are indicators of linear time. With the number of operations increasing in a for loop, it constitutes
+as linear time.
+
+Sell Laptop: O(n)
+Why? (same as Display Laptop) Mainly, there is a for loop, those are indicators of linear time. With the number of operations increasing in 
+a for loop, it constitutes as linear time.
